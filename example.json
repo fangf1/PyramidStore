@@ -1,21 +1,27 @@
 [
   {
-    "key": "金牌",
-    "name": "金牌",
+    "key": "优",
+    "name": "优",
     "type": 3,
-    "api": "爬虫所在位置/金牌.py",
+    "api": "https://ghfast.top/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/official/优.py",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 1,
-    "ext": {
-      "site": "域名1,域名2,域名3......"
-    }
+    "filterable": 1
   },
   {
-    "key": "光速",
-    "name": "光速",
+    "key": "爱",
+    "name": "爱",
     "type": 3,
-    "api": "爬虫所在位置/光速.py",
+    "api": "https://ghfast.top/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/official/爱.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+  },
+  {
+    "key": "花都",
+    "name": "花都",
+    "type": 3,
+    "api": "https://ghfast.top/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/official/adult/花都.py",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
